@@ -60482,14 +60482,7 @@
         "wrappedTokens": [
             {
                 "wrappedTokenAddress": "0xe584af7c681507881bf56e9132151732910fbcf3",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
+                "tag
         "chainId": 1,
         "name": "Green Bitcoin",
         "symbol": "GBTC",
@@ -60528,9 +60521,8 @@
                 ]
             }
         ]
-    }
-],
-    {
+    }٫
+            {
     "chainId": 137,
     "name": "Goofy",
     "symbol": "GOGO",
@@ -60547,4 +60539,4 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/GOOFY-GOGO/GOOFY-GOGO-Distribution-Schedule/refs/heads/main/GOOFY_GOGO-removebg-preview.png"
 }
-            
+] 
